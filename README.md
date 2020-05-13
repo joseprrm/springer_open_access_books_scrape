@@ -2,6 +2,12 @@
 
 Scrape and download springer OpenAccess books
 
+## Dependencies
+* Python 3.8
+* Beautiful Soup
+* Unidecode
+* Requests
+
 ## scrape.py
 
 This script scrapes the books available in https://link.springer.com/search?package=openaccess&facet-content-type="Book".
